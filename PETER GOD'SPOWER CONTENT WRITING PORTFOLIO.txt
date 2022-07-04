@@ -1,0 +1,218 @@
+=========HOME========
+.home_greeting
+Hello, I'm
+
+.home_name
+Peter Oghemenosen
+
+.home_education
+Frontend Web Developer
+
+.home_social-link
+htpps://www.linkedin.com/
+https://github.com/
+https://sololearn.com/
+
+.home_scroll-name
+Scroll Down
+
+====ABOUT=====
+.section_subtitle | .section_title
+My Intro
+About Me
+
+.about_title | .about_subtitle
+Experience
+3 Years Working
+
+Completed
+20 + projects
+
+Support
+Online 24/7
+
+.about_description
+Frontend web developer, I create web pages with UL / UX user interface,
+I have years of experience and many of my friends are happy with the projects
+i built.
+
+======SKILLS=======
+.section_subtitle | .section_title
+My abilities
+My Experience
+
+.skills_title
+Frontend Developer
+Backend Developer
+
+.skills_name | .skills_level
+HTML 
+Advanced
+
+CSS
+Advanced
+
+JAVASCRIPT
+Intermediate
+
+BOOTSTRAP
+Intermediate
+
+GIT & GITHUB
+Intermediate
+
+REACT
+Basic
+
+VUE JS
+Basic
+
+NODE JS
+Basic
+
+EXPRESS JS
+Basic
+
+PYTHON(DJANGO & FLASK) 
+Intermediate
+
+MySQL
+Basic
+
+MONGO DB
+Basic
+
+FIREBASE
+Intermediate
+
+==========SERVICES ===========
+.section_subtitle | .section_title
+My Education
+My Background
+
+.services_title
+Dickson <br> College
+
+Free Code <br> camp
+
+Aptech <br> Computer <br> Education
+
+.services_modal-decrition
+A student within Science department, Writing external exams, multiple perfectship,
+Standing out among the best in the class.
+
+A self-taught aspiring personal, high attention in learning,
+high abilities of solving problems chanllenges, working more of building projects,
+exceeding to the best
+
+A High-training School for computer Programming / bootcamp for IT students,
+Best in Nigeria, Well trained students, High-level teachers, Best environment for
+well-trained aspirant developers.
+
+.service-modal-info
+Schooling in a department of science
+
+Parting with Computer technology in School Organization
+
+External exams like WAEC/SSCE
+
+Builing Projects with HTML, CSS and JAVASCRIPT
+
+Solving Problems with Javascript
+
+Working projects With Python Frameworks like Flask and Django
+
+A self-taught trainee in JAVASCRIPT FRAMEWORK
+
+A motivated aspirant in learning more new technology in computer programming
+
+Buliding projects solutions of products using companies platform
+
+Expert in the experices of building Web Development
+
+==========WORK========
+.section_subtitle | .section_title
+My Portfolio
+Recent Works
+
+.work_item
+All
+Web
+Mobile
+Design
+
+.work_title
+Web Design
+
+App Mobile
+
+Brand Design
+
+Dating Design
+
+==========TESTIMONIAL========
+.section_subtitle | .section_title
+My clients say
+Testimonial
+
+.testimonial_name
+Divine 
+
+Mum Marvellous
+
+Dad Marvellous
+
+Elizabeth princess
+
+Tolu
+
+.testimonial_description
+A really inspired and motivated person in all aspect of the projects built
+, He is a great person, a future one to become the best in the world.
+I see it in Him, I wish him all the best.
+
+=====CONTACT==========
+.section_subtitle | .section_title
+Get in touch
+Contact Me
+
+.contact_title
+Talk to me
+
+Tell me Your Reviews about My website
+
+.contact_card-title | .contact_card-data
+Email
+oselumense2020@gmail.com
+
+Whatsapp
++2349035842224
+
+Messenger
+user.fb123
+
+.contact__button
+mailto:examplemail@oselumense.com
+
+https://api.whatsapp.com/send?phone=+2349035842224&text=Hello, more information!
+
+https://m.me/Peter God'spower
+
+========== FOOTER ==========
+.footer__title
+Peter
+
+.footer__link
+About
+
+Projects
+
+Testimonials
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#2022; PETER GOD'SPOWER. All rigths reserved
